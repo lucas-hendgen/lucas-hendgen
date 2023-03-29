@@ -1,10 +1,25 @@
-- 👋 Me chamo Lucas H. Soares...
-- 👀 Me interesso muito por tecnologia e programação...
-- 🌱 Atualmente estou aprendendo JavaScript...
-- 💞️ Almejo me tornar um DEV Back-end...
-- 📫 srslucas5@gmail.com
+###  👋 Me chamo Lucas H. Soares...
+###  👀 Me interesso muito por tecnologia e programação...
+### 🌱 Atualmente estou aprendendo JavaScript...
+### 💞️ Almejo me tornar um DEV Back-end...
 
-<!---
-G4NG5T3R/G4NG5T3R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[ ![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G4NG5T3R)
+[ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srslucas5@gmail.com)
+[ ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hendgen-soares-198a6a160/)
+
+![G4NG5T3R GitHub stats](https://github-readme-stats.vercel.app/api?username=G4NG5T3R&show_icons=true&theme=merko&count_private=true)
+
+## Tecnologias
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" alt="mysql" src="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</div>
