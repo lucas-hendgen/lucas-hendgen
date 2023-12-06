@@ -6,6 +6,7 @@
 [ ![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas-hendgen)
 [ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srslucas5@gmail.com)
 [ ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hendgen-soares-198a6a160/)
+https://github-readme-stats.vercel.app/api/top-langs/?username={lucas-hendgen}&theme=blue-green
 
 ![lucas-hendgen GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-hendgen&show_icons=true&theme=merko&count_private=true)
 
